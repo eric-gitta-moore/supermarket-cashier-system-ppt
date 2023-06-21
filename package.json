@@ -1,0 +1,33 @@
+{
+  "name": "slidev",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.42.5",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-penguin": "^1.7.1"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.33",
+    "@iconify-json/mdi": "^1.1.52",
+    "sass": "^1.63.5",
+    "vite-svg-loader": "^4.0.0"
+  },
+  "slidev": {
+    "colorSchema": "both",
+    "highlighter": "shiki",
+    "default": {
+      "aspectRatio": "16/9",
+      "fonts": {
+        "sans": "Nunito",
+        "title": "Gilroy",
+        "mono": "Fira Code"
+      }
+    }
+  }
+}
