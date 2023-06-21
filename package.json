@@ -1,6 +1,7 @@
 {
   "name": "slidev",
   "private": true,
+  "packageManager": "pnpm@8.6.2",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev",
