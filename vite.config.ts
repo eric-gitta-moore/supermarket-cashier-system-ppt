@@ -3,7 +3,7 @@ import svgLoader from 'vite-svg-loader'
 
 export default defineConfig(({ command }) => {
   return {
-    base: command === 'build' ? '/ppt-cow-low-code/' : './',
+    base: command === 'build' ? '/supermarket-cashier-system-ppt/' : './',
     plugins: [svgLoader()],
   }
 })
