@@ -1,7 +1,7 @@
 {
   "name": "slidev",
   "private": true,
-  "packageManager": "pnpm@8.6.2",
+  "packageManager": "pnpm@8.6.3",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev",
@@ -18,17 +18,5 @@
     "@iconify-json/mdi": "^1.1.52",
     "sass": "^1.63.5",
     "vite-svg-loader": "^4.0.0"
-  },
-  "slidev": {
-    "colorSchema": "both",
-    "highlighter": "shiki",
-    "default": {
-      "aspectRatio": "16/9",
-      "fonts": {
-        "sans": "Nunito",
-        "title": "Gilroy",
-        "mono": "Fira Code"
-      }
-    }
   }
 }
