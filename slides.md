@@ -2,7 +2,7 @@
 layout: intro
 theme: ./theme
 themeConfig:
-    logoHeader: /logo.png
+    logoHeader: logo.png
     github: cashier-system
     githubUrl: https://github.com/james-curtis/supermarket-cashier-system
 title: 基于JavaWeb的超市收银系统
@@ -18,7 +18,7 @@ layout: two-cols
 ---
 
 
-<img src='/超市收银.png' h-110 m-auto w-100 object-cover />
+<img src='超市收银.png' h-110 m-auto w-100 object-cover />
 
 ::right::
 # 课题背景
@@ -30,7 +30,7 @@ layout: two-cols
 ---
 
 
-<img src='/超市收银会员卡.png' h-110 m-auto w-100 object-cover />
+<img src='超市收银会员卡.png' h-110 m-auto w-100 object-cover />
 
 ::right::
 
@@ -57,57 +57,57 @@ layout: two-cols
 
 ::right::
 
-<img src='/阿里架构.png' my-15  />
+<img src='阿里架构.png' my-15  />
 
 
 ---
 
 # 系统层次图
 
-<img src="/系统层次图.drawio.svg" m-auto />
+<img src="系统层次图.drawio.svg" m-auto />
 
 ---
 
 # ER图
 
-<img src="/er.png" />
+<img src="er.png" />
 
 ---
 
 # ER图 注释
 
-<img src="/er2.png" h-110 m-auto />
+<img src="er2.png" h-110 m-auto />
 
 ---
 
 # 数据字典 - good - 商品表
 
 
-<img src="/good-dict.png" m-auto />
+<img src="good-dict.png" m-auto />
 
 ---
 
 # 数据字典 - orderlog - 销售记录
 
-<img src="/orderlog.png" m-auto h-110 />
+<img src="orderlog.png" m-auto h-110 />
 
 ---
 
 # 数据字典 - user - 用户表
 
-<img src="/user.png" m-auto h-110 />
+<img src="user.png" m-auto h-110 />
 
 ---
 
 # 总览类图
 
-<img src="/概览类图.png" h-110 m-auto />
+<img src="概览类图.png" h-110 m-auto />
 
 ---
 
 # 详细类图和设计
 
-<img src="/详细类图和设计.png" h-110 m-auto />
+<img src="详细类图和设计.png" h-110 m-auto />
 
 ---
 
