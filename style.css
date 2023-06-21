@@ -1,5 +1,7 @@
-/*
-p{
-    opacity: 0.9!important;
+* {
+    font-family: "PingFang SC" !important
 }
-*/
+
+.prose {
+    max-width: unset;
+}
